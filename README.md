@@ -1,0 +1,1 @@
+# antartikabagiangoa.lua
